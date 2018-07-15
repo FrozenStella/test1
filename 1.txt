@@ -1,1 +1,1 @@
-소수를 세자
+This is timing
